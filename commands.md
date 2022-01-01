@@ -26,7 +26,7 @@ A gentle reminder that the stream you're watching is family friendly.
 Get JSR's Switch friend-code. Handy for multiplayer games.
 
 ### !followed
-How long have you been followiing JSR?
+How long have you been following JSR?
 
 ### !lurk
 Need to go AFK? That's fine, and this is a quick way to let us know.
