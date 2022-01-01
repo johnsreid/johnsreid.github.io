@@ -37,6 +37,9 @@ Let Octobadgerbot share a random, and likely to be classic, JSR quote with you.
 ### !quote [XX]
 Remember the number of the quote you want? Type it in to relive it.
 
+### !quotes
+Of course, knowing how to see a list of quotes is useful - so use this command to get them.
+
 ### !retweet
 Post a link to JSR's most recent Tweet.
 
