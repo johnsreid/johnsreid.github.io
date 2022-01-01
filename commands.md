@@ -2,9 +2,9 @@
 There are a lot of commands that viewers can use in the JSR streams, so here they are in a friendly and easy-to-read format.
 
 ### !aboutme
-When did you create your Twitch account? How long have you been followiing JSR?
+When did you create your Twitch account? How long have you been following JSR?
 
-### amazon
+### !amazon
 A link to some things that JSR is coveting. Because apparently he has to have one of these.
 
 ### !badger
@@ -37,7 +37,7 @@ Let Octobadgerbot share a random, and likely to be classic, JSR quote with you.
 ### !quote [XX]
 Remember the number of the quote you want? Type it in to relive it.
 
-### !retweeet
+### !retweet
 Post a link to JSR's most recent Tweet.
 
 ### !youtube
