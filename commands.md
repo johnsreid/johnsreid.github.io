@@ -28,6 +28,9 @@ Get JSR's Switch friend-code. Handy for multiplayer games.
 ### !followed
 How long have you been following JSR?
 
+### !howlong
+How many hours have you been watching JSR (on a stream)?
+
 ### !lurk
 Need to go AFK? That's fine, and this is a quick way to let us know.
 
