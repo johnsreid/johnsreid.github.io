@@ -66,9 +66,44 @@ JSR said one of his famous badgers again! We keep track of this. Every 100 badge
 ### !badger -
 Just in case 😏
 
+### !fireworks
+Mods can launch fireworks to celebrate... just about anything.
+
 ### !quote add
 Adds a new JSR pearl of wisdom to the list of things said on stream.
 
+### !setgame {game}
+Set the stream category. If the category cannot be set, OBB will let you know there was a problem.
+
+### !settitle {message}
+Set the title of the stream. All text will be used.
+
 ### !so
 Whether you're someone who has raided, been supportive or just generally deserve some recognition - you'll probably see the mod team use this command to highlight you.
+
+## Mod OBS controls
+These commands are available to BBTA. Commands work via message or whisper to JSR.
+
+### Main scenes
+* !obshello - Activate the "main" chat scene
+* !obscredits - Activate the credits scene
+
+### 3DS Scenes
+* !obs3ds
+* !obs3ds
+* !obs3dsbottom
+* !obs3dstop
+
+### Break screens
+* !obsbreak1 - Normal break screen
+* !obsbreak2 - The infamous "About Me" extended cut
+* !obsbreak3 - JSR plays Bubble Bobble
+* !obsbreak4 - JSR plays Zelda Main Theme
+* !obsbreakmsg {message} - Set the the text for the standard break screen
+* !karaoke - Random song is selected from the Twitch Sings directory and played
+* !karaoke {number} - A specific song ID is selected from the Twitch Sings directory and played
+
+### Charity
+* !obscharityon - Turn on the charity overlay
+* !obscharityoff - Turn off the charity overlay
 
