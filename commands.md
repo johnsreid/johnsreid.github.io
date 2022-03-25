@@ -10,6 +10,9 @@ A link to some things that JSR is coveting. Because apparently he has to have on
 ### !badger
 How many badgers must a man say before he's willing to wear a onesie on the internet? Find out with this command.
 
+### !blame {username}
+Who's gonna take the fall for _that_ happening? You decide.
+
 ### !commands
 A link to this page!
 
