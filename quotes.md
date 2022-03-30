@@ -231,4 +231,6 @@
 |226|let's fingerbang him, shell him and crash Goomba's party|
 |227|We all have different mouths, that's why kissing is so fun|
 |228|I have what they call a Seaman's discharge book|
+|229|I need some bush. I need some arrows for my bush|
+|230|That's gonna leave some skid marks|
 
