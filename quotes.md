@@ -217,20 +217,3 @@
 |212|Oh my god, it's satan's box!|
 |213|That JSR playmanship! *Makes mistake*|
 |214|Why is this so HARD|
-|215|I just wanna touch the damn thing|
-|216|Ah ah, I've got a fly in my eye|
-|217|I've got bits of toffee in my trousers!|
-|218|There was a lot of canoe and sausage action going on tonight|
-|219|That's how my oesophagus works|
-|220|Sam ate my muffler|
-|221|I've got a monster in my magic balls|
-|222|Gotta Touch 'Em All - Fireballs|
-|223|Can I not be a mushroom now please|
-|224|I don't wanna toss anything|
-|225|Sweaty work pants, nice!|
-|226|let's fingerbang him, shell him and crash Goomba's party|
-|227|We all have different mouths, that's why kissing is so fun|
-|228|I have what they call a Seaman's discharge book|
-|229|I need some bush. I need some arrows for my bush|
-|230|That's gonna leave some skid marks|
-
