@@ -96,7 +96,6 @@ These commands are available to BBTA. Commands work via message or whisper to JS
 
 ### 3DS Scenes
 * !obs3ds
-* !obs3ds
 * !obs3dsbottom
 * !obs3dstop
 
@@ -109,7 +108,4 @@ These commands are available to BBTA. Commands work via message or whisper to JS
 * !karaoke - Random song is selected from the Twitch Sings directory and played
 * !karaoke {number} - A specific song ID is selected from the Twitch Sings directory and played
 
-### Charity
-* !obscharityon - Turn on the charity overlay
-* !obscharityoff - Turn off the charity overlay
 
