@@ -64,10 +64,13 @@ Uh oh, JSR has really died. Let's take that death off.
 The stream wouldn't be what it is without the wonderful mods.
 
 ### !badger +
-JSR said one of his famous badgers again! We keep track of this. Every 100 badgers there's a bonus onesie stream. If he says a worse word, there are additional points.
+JSR said one of his famous badgers again! We keep track of this. Every 100 badgers there's a bonus onesie stream. If he says a worse word, there are additional points. Each badger is autmatically clipped!
 
 ### !badger -
 Just in case 😏
+
+### !badger {number}
+Too many badgers for a single command? Set the correct number of badgers in this friendly, easy to use command.
 
 ### !fireworks
 Mods can launch fireworks to celebrate... just about anything.
