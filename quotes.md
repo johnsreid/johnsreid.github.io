@@ -234,4 +234,5 @@
 |229|I need some bush. I need some arrows for my bush|
 |230|That's gonna leave some skid marks|
 |231|I'll fiddle, you have a look|
+|232|I'm not leaving without my big sword|
 
