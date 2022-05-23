@@ -235,4 +235,8 @@
 |230|That's gonna leave some skid marks|
 |231|I'll fiddle, you have a look|
 |232|I'm not leaving without my big sword|
+|233| ESLOWna more like|
+|234|I don't know what I've just put in my mouth, but it wasn't very nice|
+|235|let's crack over to the wet patch and see what happens|
+|236|One day I'll have a quote that's not an innuendo|
 
