@@ -239,4 +239,6 @@
 |234|I don't know what I've just put in my mouth, but it wasn't very nice|
 |235|let's crack over to the wet patch and see what happens|
 |236|One day I'll have a quote that's not an innuendo|
+|237|please stop talking|
+|238|What's going on here, where's my hole?|
 
