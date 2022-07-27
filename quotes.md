@@ -252,4 +252,9 @@
 |247|wait for him to come back and go wab wab wab wab wab wab with my big sword|
 |248|I'm the Lord of Darkness!|
 |249|The important thing to do is not hit the walls, that's what stops you|
+|250|Get in!! Get in my sword!|
+|251|That's how we do it in JSR town|
+|252|I fancy myself...|
+|253|Why are you still standing? You're not Elton John!|
+|254|Stop stabbing me with your arrows|
 
