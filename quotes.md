@@ -257,4 +257,8 @@
 |252|I fancy myself...|
 |253|Why are you still standing? You're not Elton John!|
 |254|Stop stabbing me with your arrows|
+|255|I forgot to hold my piece|
+|256|you didn't just do that thing JSR? You did!|
+|257|Jump down you silly cat|
+|258|if you guys get me up to the crazy number of 100 subs, I'll do a Posh Spice stream|
 
