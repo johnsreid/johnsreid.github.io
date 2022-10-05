@@ -261,4 +261,10 @@
 |256|you didn't just do that thing JSR? You did!|
 |257|Jump down you silly cat|
 |258|if you guys get me up to the crazy number of 100 subs, I'll do a Posh Spice stream|
+|259|Oh, you can pick them up after you poop them...that's nice|
+|260|deep down, we're all 9 year old boys and girls|
+|261|Not the kangaroo again!!!|
+|262|It doesn't matter where you do it, that bent piece wil always stick out|
+|263|oh fiddlesticks, I put it in the wrong hole|
+|264|that's a tiny hole to get my thing through|
 
