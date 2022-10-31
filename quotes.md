@@ -267,4 +267,6 @@
 |262|It doesn't matter where you do it, that bent piece wil always stick out|
 |263|oh fiddlesticks, I put it in the wrong hole|
 |264|that's a tiny hole to get my thing through|
+|265|Big Screen Jonny, that's me|
+|266|Don't pierce your earphone|
 
