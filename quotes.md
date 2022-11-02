@@ -269,4 +269,6 @@
 |264|that's a tiny hole to get my thing through|
 |265|Big Screen Jonny, that's me|
 |266|Don't pierce your earphone|
+|267|Why can't I suck him up|
+|268|Keep Sucking, KEEP SUCKING|
 
