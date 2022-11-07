@@ -271,4 +271,11 @@
 |266|Don't pierce your earphone|
 |267|Why can't I suck him up|
 |268|Keep Sucking, KEEP SUCKING|
+|269|EAT MY CHAIN|
+|270|This is the Antiques Roadshow of the Internet|
+|271|Iron your mats everybody|
+|272|The more you say, the more you play|
+|273|I am wrong, I admit it|
+|274|I think the problem is the caveman's yellow nipple|
+|275|It IS a pink nipple!|
 
