@@ -279,4 +279,20 @@
 |274|I think the problem is the caveman's yellow nipple|
 |275|It IS a pink nipple!|
 |276|I'm the cheese boy|
+|277|Good life lesson: Don't eat the yellow snow|
+|278|Max Diva, that's my weekend name by the way.|
+|279|Nancy Drew is the unmelted knob of butter on the corner of toast|
+|280|"oooh" says Tom|
+|281|Why don't you go off and blow your horn for me|
+|282|In your big relic-y face|
+|283|BigBadTomA-Ness|
+|284|Everyone comes to the JSR streams for the big throbbing purple thing|
+|285|You can't double jump with a big tomato in your hand|
+|286|Kill, Consume & Flirt|
+|287|Give it a nice firm wack|
+|288|Careful Goran, or I'll be shaking your hand again soon! - Aido|
+|289|You're so fine you blow my mind, hey fingers!|
+|290|Get your windscreen wiper out of my face|
+|291|This is a stupid game, I'm gonna have another go!|
+|292|Stop splashing me playfully, Aaron!|
 
