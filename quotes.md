@@ -295,4 +295,7 @@
 |290|Get your windscreen wiper out of my face|
 |291|This is a stupid game, I'm gonna have another go!|
 |292|Stop splashing me playfully, Aaron!|
+|293|It's too dark to look at a wall this close|
+|294|That hiccup nearly put my back out|
+|295|Just check out my exploding balls, y'all|
 
