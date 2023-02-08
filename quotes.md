@@ -298,4 +298,7 @@
 |293|It's too dark to look at a wall this close|
 |294|That hiccup nearly put my back out|
 |295|Just check out my exploding balls, y'all|
+|296|Keep your glider up. Nobody likes a premature glider|
+|297|...and that's the story of how I cheesed Zelda|
+|298|AgentGNMulder99, quote #298 does not exist!|
 
