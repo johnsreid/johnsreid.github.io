@@ -301,4 +301,10 @@
 |296|Keep your glider up. Nobody likes a premature glider|
 |297|...and that's the story of how I cheesed Zelda|
 |298|AgentGNMulder99, quote #298 does not exist!|
+|299|Enhance my trousers woman!|
+|300|I don't want to go down unnecessarily|
+|301|Eat my axe!|
+|302|What do I know, I'm just the guy throwing the balls around.|
+|303|Should have went for the ball and not focused on the stupid chest|
+|304|Where's my ball?!|
 
