@@ -307,4 +307,22 @@
 |302|What do I know, I'm just the guy throwing the balls around.|
 |303|Should have went for the ball and not focused on the stupid chest|
 |304|Where's my ball?!|
+|305|You've got to ask yourself where he keeps those bananas|
+|306|Hitting you on the bottom! That's what they call 'a spanking'|
+|307|I don't like to be out and about without my wood.|
+|308|I don't know what my sword rocket is about to do|
+|309|What's the point of that tiny hole|
+|310|I'm as smart as a toddler now|
+|311|well that would get the ball out|
+|312|I need to get my hand on that lever|
+|313|You NEED girth|
+|314|You know what, I'm just gonna whack it and see what happens|
+|315|Run for the fire|
+|316|ooh, he drilled me right up my bottom|
+|317|I need a door!|
+|318|I wish he could use his tongue downwards|
+|319|It's boned me again!|
+|320|You are exhausting sometimes|
+|321|Grab my ball|
+|322|Just took a massive pounding|
 
