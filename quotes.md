@@ -325,4 +325,9 @@
 |320|You are exhausting sometimes|
 |321|Grab my ball|
 |322|Just took a massive pounding|
+|323|I'm coming inside of you Jabu Jabu|
+|324|HA! I've got crabs|
+|325|Lets get my magic sack out|
+|326|Let's just do it, let's just do it right now, you, me, right now!|
+|327|Bleh bleh bleh I don't care|
 
