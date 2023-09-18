@@ -330,4 +330,8 @@
 |325|Lets get my magic sack out|
 |326|Let's just do it, let's just do it right now, you, me, right now!|
 |327|Bleh bleh bleh I don't care|
+|328|No YOU can't tell the difference between Pacman and Craig David|
+|329|I'm always trying to locate chests|
+|330|I need to actually put my sword in my hand|
+|331|I'm giving him the reach around? Maybe that's where I'm going wrong|
 
