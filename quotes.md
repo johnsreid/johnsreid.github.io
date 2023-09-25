@@ -334,4 +334,5 @@
 |329|I'm always trying to locate chests|
 |330|I need to actually put my sword in my hand|
 |331|I'm giving him the reach around? Maybe that's where I'm going wrong|
+|332|When the fun stops... checkpoint|
 
