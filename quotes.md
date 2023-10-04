@@ -335,4 +335,8 @@
 |330|I need to actually put my sword in my hand|
 |331|I'm giving him the reach around? Maybe that's where I'm going wrong|
 |332|When the fun stops... checkpoint|
+|333|Once I beat the kid, I did give him the prize|
+|334|Don't fall down you toasty whatsit|
+|335|Come on birdies, touch it, touch it real good|
+|336|Eat my Sonic Spinballs|
 
