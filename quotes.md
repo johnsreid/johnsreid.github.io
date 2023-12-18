@@ -339,4 +339,23 @@
 |334|Don't fall down you toasty whatsit|
 |335|Come on birdies, touch it, touch it real good|
 |336|Eat my Sonic Spinballs|
+|337|300 meters deep, this is where the big boys get ready|
+|338|We've got 10 minutes, we can fit a drill in can't we?|
+|339|Shut up Robotnik|
+|340|Oh you absolute Bee-guy|
+|341|If in doubt, pop him out|
+|342|Get a load of this fudge!|
+|343|KEEP DRILLING BABY! *dies immediately*|
+|344|Suck it in, such your fish in|
+|345|A print job, that's what I need right now|
+|346|That's just science innit|
+|347|I've got a nasty case of the hits|
+|348|Suck it, fish!|
+|349|I've just got to clean my pole here|
+|350|I got it in the right slot don't worry, I won't make that mistake again|
+|351|Oh get on top of his head|
+|352|People want Donk, They want me to give them the Donk|
+|353|Mmmm roof grass|
+|354|Come on, all of the donk, none of the bonk, let's do this|
+|355|That's grown now, nice|
 
