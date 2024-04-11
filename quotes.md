@@ -359,4 +359,22 @@
 |354|Come on, all of the donk, none of the bonk, let's do this|
 |355|That's grown now, nice|
 |356|Don't clip doy!|
+|357|I look like a low budget unicorn|
+|358|His tummy's so furry|
+|359|You gave me a hot bottom!|
+|360|All I want is a prickly, stretchy guy|
+|361|Everywhere I step a random ball hits me|
+|362|Ok, I'm spaced up now|
+|363|Hot Bottom|
+|364|I suppose if I blow off some Spiny's I might get a moon... maybe?|
+|365|I got off prematurely then|
+|366|Cheese is the answer|
+|367|I just want to check our your 'tache|
+|368|Arghh somebody roofied me|
+|369|I've got bear back|
+|370|I don't know how to get rid of the hands!|
+|371|I'm being double fisted|
+|372|The more you say, the less it matters|
+|373|I don't know anything anymore|
+|374|You know you're getting desperate for ideas when you're throwing a hot dog around|
 
