@@ -377,4 +377,11 @@
 |372|The more you say, the less it matters|
 |373|I don't know anything anymore|
 |374|You know you're getting desperate for ideas when you're throwing a hot dog around|
+|375|I got blown off by the wind instead of Goran|
+|376|Right, I've grown weary|
+|377|It's stuck in winter until I can get my rod out again|
+|378|I call boo-hickey|
+|379|I solved the puzzle, all I had to do was get my wand out!|
+|380|It would be nice if I could whip it out once in a while|
+|381|I didn't die! I was arrested|
 
