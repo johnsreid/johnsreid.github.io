@@ -384,4 +384,14 @@
 |379|I solved the puzzle, all I had to do was get my wand out!|
 |380|It would be nice if I could whip it out once in a while|
 |381|I didn't die! I was arrested|
+|382|Oh don't give me the bone..... OH STOP IT!|
+|383|Who gave me the horn?|
+|384|Show me your balls|
+|385|Go push a block|
+|386|Oh, I ballsed myself|
+|387|I forgot to take my sword out|
+|388|Come on, you tomato|
+|389|WHY WON'T THESE MELONS BREAK!|
+|390|Stop hitting me with your balls|
+|391|why does it always have to be holes|
 
