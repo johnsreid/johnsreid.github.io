@@ -394,4 +394,10 @@
 |389|WHY WON'T THESE MELONS BREAK!|
 |390|Stop hitting me with your balls|
 |391|why does it always have to be holes|
+|392|GONG!|
+|393|I love Link, Link loves me, Link in my coffee and Link in my tea|
+|394|I'm going to rub out my bus now|
+|395|You know what I like about Link's sword? It's a little bit longer when he thrusts it than when he's just holding it|
+|396|Let's go and appraise my ring|
+|397|PLEASE DIE!|
 
