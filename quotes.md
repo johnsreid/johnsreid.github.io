@@ -400,4 +400,6 @@
 |395|You know what I like about Link's sword? It's a little bit longer when he thrusts it than when he's just holding it|
 |396|Let's go and appraise my ring|
 |397|PLEASE DIE!|
+|398|Don't yank my crank|
+|399|Get ready for some probe insertions|
 
