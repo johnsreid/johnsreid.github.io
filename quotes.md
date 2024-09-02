@@ -402,4 +402,9 @@
 |397|PLEASE DIE!|
 |398|Don't yank my crank|
 |399|Get ready for some probe insertions|
+|400|I've got big barrels|
+|401|I've got a baby and I'm not afraid to use it!|
+|402|@MskieRiot  ONLY THE BALLS WILL WORK|
+|403|Mskie: "GRAB THE BALLS"|
+|404|Suck my..... shotgun|
 
