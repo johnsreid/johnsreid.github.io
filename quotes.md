@@ -410,4 +410,6 @@
 |405|Remember where I got pelted by that hog|
 |406|you're talking to the right person. JSR Fire Starter at your service|
 |407|I got fished good|
+|408|Love a bit of crude honking|
+|409|Jabu Jabu has just sucked off the assistants|
 
