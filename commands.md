@@ -28,6 +28,9 @@ A gentle reminder that the stream you're watching is family friendly.
 ### !fc
 Get JSR's Switch friend-code. Handy for multiplayer games.
 
+### !flip
+Flip a coin - without needing said coin. The ultimate time-saver!
+
 ### !followed
 How long have you been following JSR?
 
