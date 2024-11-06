@@ -412,4 +412,11 @@
 |407|I got fished good|
 |408|Love a bit of crude honking|
 |409|Jabu Jabu has just sucked off the assistants|
+|410|'Hey Liam' Says Ems|
+|411|Golden Showers over Hyrule Castle|
+|412|He made babies, HE MADE BABIES!|
+|413|Sorry Fish!|
+|414|Will you not be in my cart anymore, Uno|
+|415|I bet Zelda tastes delicious|
+|416|Keep whacking it!|
 
