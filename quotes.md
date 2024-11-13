@@ -420,4 +420,5 @@
 |415|I bet Zelda tastes delicious|
 |416|Keep whacking it!|
 |417|She gave me crabs|
+|418|Take that...pop it back in there|
 
