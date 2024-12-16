@@ -426,4 +426,6 @@
 |421|I've done a deposit!|
 |422|I didn't have a clue what was going on, but I was there|
 |423|I really don't want it blowing me off|
+|424|Vol.... they can't put that word in a family friendly game!|
+|425|pull it, pull it, pull it real good|
 
