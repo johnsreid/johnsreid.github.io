@@ -421,4 +421,9 @@
 |416|Keep whacking it!|
 |417|She gave me crabs|
 |418|Take that...pop it back in there|
+|419|You're one away|
+|420|Should I be worried about the green goo?|
+|421|I've done a deposit!|
+|422|I didn't have a clue what was going on, but I was there|
+|423|I really don't want it blowing me off|
 
