@@ -428,4 +428,14 @@
 |423|I really don't want it blowing me off|
 |424|Vol.... they can't put that word in a family friendly game!|
 |425|pull it, pull it, pull it real good|
+|426|Yeah, I'm getting slammed left, right and center here. This is no fun.|
+|427|Have those echoes of wisdom in your face|
+|428|I need an egg|
+|429|I'm going to give it the big hard ball JSR treatment|
+|430|Who iced my balls?|
+|431|Go on, go on, go on go on go on go on, go on|
+|432|Tom A slipping it in there|
+|433|Slap my ball in your hole|
+|434|I did nothing to myself but PLAY GAMES!|
+|435|I banged too hard|
 
