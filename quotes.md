@@ -438,4 +438,9 @@
 |433|Slap my ball in your hole|
 |434|I did nothing to myself but PLAY GAMES!|
 |435|I banged too hard|
+|436|Prickles|
+|437|I'm just shuffling it up and down a bit|
+|438|Can you stop putting things in Salli's mouth Tom!|
+|439|Maybe I shouldn't have pounded the snowman|
+|440|I like yellow duck on pink duck action|
 
