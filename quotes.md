@@ -443,4 +443,7 @@
 |438|Can you stop putting things in Salli's mouth Tom!|
 |439|Maybe I shouldn't have pounded the snowman|
 |440|I like yellow duck on pink duck action|
+|441|I've made a tree!|
+|442|Let's Be Gaming Now!|
+|443|YOU BANANA'D ME!|
 
