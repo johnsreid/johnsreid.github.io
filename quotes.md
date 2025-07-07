@@ -446,4 +446,24 @@
 |441|I've made a tree!|
 |442|Let's Be Gaming Now!|
 |443|YOU BANANA'D ME!|
+|444|The more you race, the better you pace|
+|445|Explore the level you're in until you're ready to get hard|
+|446|It's like when you're playing Bop It|
+|447|I'm taking a pounding|
+|448|If you turn 18 and you aren't over 5ft9 you get euthanized|
+|449|That's how you picross people|
+|450|You can't touch me there, there'll be allegations|
+|451|Eat my wood|
+|452|Classic Drill Collins|
+|453|I had a banana today as well|
+|454|Come on, eat my fists|
+|455|Let's be gymming now|
+|456|Ha, Nutted!|
+|457|What's the run button??|
+|458|BADGER 1000|
+|459|I haven't done a Gleeock in a while|
+|460|You can't take that our here, why not?|
+|461|Let's be plucking now|
+|462|Always check your holes, everybody|
+|463|I didn't even risk the sausage|
 
