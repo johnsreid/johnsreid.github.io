@@ -469,4 +469,7 @@
 |464|Let's Be Onioning Now|
 |465|You don't have to quote everything I say, you know|
 |466|I don't trust those bushes, sorry|
+|467|I really don't trust any bush|
+|468|Lets give it a good pluck|
+|469|Oh balls. Don't worry, I'll suck it up|
 
