@@ -472,4 +472,7 @@
 |467|I really don't trust any bush|
 |468|Lets give it a good pluck|
 |469|Oh balls. Don't worry, I'll suck it up|
+|470|Go, Go, Go, Go, Go, Door, Door, Door|
+|471|Let's get the ooooooold Doofy-dob|
+|472|Keep on plucking!|
 
