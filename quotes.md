@@ -475,4 +475,9 @@
 |470|Go, Go, Go, Go, Go, Door, Door, Door|
 |471|Let's get the ooooooold Doofy-dob|
 |472|Keep on plucking!|
+|473|Right in the nads!|
+|474|Don't you dare eat my Pikmin, pal.|
+|475|GET UP, GET UP JOEL, GET UP, NO THAT'S DOWN!|
+|476|No, you botty so and so|
+|477|Nope, That's not a valid quote number!|
 
