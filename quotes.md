@@ -480,4 +480,5 @@
 |475|GET UP, GET UP JOEL, GET UP, NO THAT'S DOWN!|
 |476|No, you botty so and so|
 |477|Nope, That's not a valid quote number!|
+|478|Sorry! That's not a valid quote number!|
 
