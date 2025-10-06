@@ -481,4 +481,5 @@
 |476|No, you botty so and so|
 |477|Nope, That's not a valid quote number!|
 |478|Sorry! That's not a valid quote number!|
+|479|I'm going to jiggle my crank|
 
