@@ -482,4 +482,5 @@
 |477|Nope, That's not a valid quote number!|
 |478|Sorry! That's not a valid quote number!|
 |479|I'm going to jiggle my crank|
+|480|This is why you should never drink 7Up Al Fresco|
 
