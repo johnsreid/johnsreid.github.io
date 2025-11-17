@@ -483,4 +483,8 @@
 |478|Sorry! That's not a valid quote number!|
 |479|I'm going to jiggle my crank|
 |480|This is why you should never drink 7Up Al Fresco|
+|481|We must be near the bananas now (Added by JynnaJay)|
+|482|You know instead of making haunted cabins they could make, y'know, cabins|
+|483|Squish him real good|
+|484|Don't mix up jump and suck!|
 
