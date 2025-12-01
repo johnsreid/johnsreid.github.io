@@ -487,4 +487,7 @@
 |482|You know instead of making haunted cabins they could make, y'know, cabins|
 |483|Squish him real good|
 |484|Don't mix up jump and suck!|
+|485|Who's Jom?|
+|486|We'll be back on Monday with a stream of what's the guy called|
+|487|I don't make the rules, I literally made the game|
 
