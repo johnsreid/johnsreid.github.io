@@ -490,4 +490,12 @@
 |485|Who's Jom?|
 |486|We'll be back on Monday with a stream of what's the guy called|
 |487|I don't make the rules, I literally made the game|
+|488|Let's be clue-ing now!|
+|489|The less you say the no different I pay|
+|490|I watch a lot of people sleep|
+|491|Consider your Goose Cooked|
+|492|Tilt the controller to guide your balls|
+|493|It's called a Gatchablob, it's official|
+|494|Crikey on a Bikey|
+|495|That's a mouthful alright!|
 
