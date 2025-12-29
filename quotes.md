@@ -498,4 +498,5 @@
 |493|It's called a Gatchablob, it's official|
 |494|Crikey on a Bikey|
 |495|That's a mouthful alright!|
+|496|Looks like you collected all the pieces JSR because you're so good at this game, SO GOOD!|
 
