@@ -503,4 +503,9 @@
 |498|The power of the thrustt!|
 |499|I just thrust up...|
 |500|I'm going to max out my thrust|
+|501|I only have thrust now|
+|502|6 strokes, is that enough though?|
+|503|Anybody got a longun|
+|504|Buttons are hard - PCQ|
+|505|Oh, I smell of cream|
 
