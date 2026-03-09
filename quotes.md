@@ -508,4 +508,8 @@
 |503|Anybody got a longun|
 |504|Buttons are hard - PCQ|
 |505|Oh, I smell of cream|
+|506|I just couldn't grab my banana in time|
+|507|I thought I needed to bang him in the bottom|
+|508|Highway to the donkey zone!|
+|509|I think I need a life|
 
