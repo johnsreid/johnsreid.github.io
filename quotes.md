@@ -512,4 +512,9 @@
 |507|I thought I needed to bang him in the bottom|
 |508|Highway to the donkey zone!|
 |509|I think I need a life|
+|510|Whoa now, that's a big one!|
+|511|I like it when I've got some big bits|
+|512|Me and my balls, playing Dominoes|
+|513|It needs more length, doesn't it|
+|514|Oooh I've got a numb bottom|
 
