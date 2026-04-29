@@ -524,4 +524,5 @@
 |519|Sausage Smash was a lot of fun|
 |520|No new quotes since I last checked. You're slacking|
 |521|10, 9, 8, 17, 16, 15|
+|522|Now I've got to update the quote list. Thanks everyone|
 
