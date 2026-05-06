@@ -525,4 +525,6 @@
 |520|No new quotes since I last checked. You're slacking|
 |521|10, 9, 8, 17, 16, 15|
 |522|Now I've got to update the quote list. Thanks everyone|
+|523|This is the one...|
+|524|I was dangerously close to his banana then|
 
