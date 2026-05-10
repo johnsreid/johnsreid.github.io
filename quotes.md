@@ -527,4 +527,5 @@
 |522|Now I've got to update the quote list. Thanks everyone|
 |523|This is the one...|
 |524|I was dangerously close to his banana then|
+|525|You want it little JSR, you want my egg|
 
