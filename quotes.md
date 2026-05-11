@@ -528,4 +528,6 @@
 |523|This is the one...|
 |524|I was dangerously close to his banana then|
 |525|You want it little JSR, you want my egg|
+|526|Got your sword out Link, thrust, thrust!|
+|527|Givng it the sidle eye!|
 
