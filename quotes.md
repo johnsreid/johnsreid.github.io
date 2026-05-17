@@ -530,4 +530,6 @@
 |525|You want it little JSR, you want my egg|
 |526|Got your sword out Link, thrust, thrust!|
 |527|Givng it the sidle eye!|
+|528|If anyone was wondering, that enemy was called the hmm... errm... dunno|
+|529|Fun Fact: That appears to be a dead end|
 
