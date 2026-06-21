@@ -534,4 +534,7 @@
 |529|Fun Fact: That appears to be a dead end|
 |530|At least I know what to do now, NOT what I just did|
 |531|You know the rules, we never do a Zelda puzzle... or something... quit|
+|532|I just nutted myself|
+|533|You can absolutely see....that's broken now|
+|534|Go on, handsome|
 
