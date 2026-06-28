@@ -537,4 +537,9 @@
 |532|I just nutted myself|
 |533|You can absolutely see....that's broken now|
 |534|Go on, handsome|
+|535|Go, Go, Go, Ohhhh you beauty!|
+|536|Look at him, he's sodden, absolutely sodden|
+|537|OH MY WORD HE'S BOMBING ME|
+|538|He's going to try and clap me|
+|539|Oh Tom, Tom, Tom, Parachuter has a face|
 
